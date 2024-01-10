@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "meetingtopic": "Scrum ",
+      "noofpeople": 7,
+      "starttime": "2023-12-12T09:45"
+    },
+    {
+      "id": 2,
+      "meetingtopic": "Hydra-API",
+      "noofpeople": 23,
+      "starttime": "2024-01-04T10:45"
+    },
+    {
+      "id": 3,
+      "meetingtopic": "Management-server",
+      "noofpeople": 5,
+      "starttime": "2024-01-03T11:35"
+    }
+  ]
+}
